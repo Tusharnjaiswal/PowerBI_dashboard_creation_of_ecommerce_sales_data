@@ -13,8 +13,8 @@ Created a Power BI dashboard for e-commerce sales, showcasing top states, key cu
 - Used different type of customized visulaizations(bar chart , donut chart, clustered bar chart, clustered column chart, etc)
 
 ## Dataset used
--<href = "https://github.com/Tusharnjaiswal/PowerBI_dashboard_creation_of_ecommerce_sales_data/blob/main/Details.csv">Details dataset </a>
--<href = "https://github.com/Tusharnjaiswal/PowerBI_dashboard_creation_of_ecommerce_sales_data/blob/main/Orders.csv">Orders dataset </a>
+-<a href = "https://github.com/Tusharnjaiswal/PowerBI_dashboard_creation_of_ecommerce_sales_data/blob/main/Details.csv">Details dataset </a>
+-<a href = "https://github.com/Tusharnjaiswal/PowerBI_dashboard_creation_of_ecommerce_sales_data/blob/main/Orders.csv">Orders dataset </a>
 
 ## Dashboard 
 <img width="1148" height="650" alt="Dashboard img" src="https://github.com/user-attachments/assets/adab2f2f-7ae7-4def-8e26-5c46350e6290" />
